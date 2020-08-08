@@ -1,0 +1,5 @@
+{
+    "mongoURI":"mongodb+srv://bhavesh12:bhavesh12@cluster0-bbyv2.mongodb.net/vidyaAcademy?retryWrites=true&w=majority",
+    "jwtSecret":"VijayWadhwani",
+    "apiKeyYoutube":"AIzaSyBqriz1MwS-bD5ZUu6Rr_jVoBObpZMITgY"
+}
